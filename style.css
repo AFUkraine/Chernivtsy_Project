@@ -1,5 +1,12 @@
 body {
+    
+    color: skyblue;
+    background-color: slategrey;
+    border-radius: 20px;
+    border-color: rgb(233, 233, 233);
     text-align: center;
-    color: black;
-    border-image-source: skyblue;
+}
+
+main{
+   
 }
